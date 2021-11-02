@@ -17,4 +17,4 @@ Accuracy top-5: 0.7422
 Accuracy top-10: 0.7605
 ```
 
-### Usage example is in `example.py` file
+#### Usage example is in `example.py` file
